@@ -1,3 +1,4 @@
+- Dữ liệu được tổ chức thành 14 cột với 19158 dòng
 - Giải thích các biến số:
     + enrollee_id: ID duy nhất cho ứng cử viên
     + city: Mã thành phố
